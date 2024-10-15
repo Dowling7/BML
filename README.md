@@ -19,7 +19,7 @@ It is important to prepare your laptop, computer, or remote server in order to b
   - nest-asyncio               1.6.0
   - pandas, numpy, scipy, matplotlib, mpltern, ternary
   
-- The above packages work correctly -at least- in ``Python 3.10.14``.  You can use ``conda`` to amulate an environment in which you install Python in any specific version, and then install the above packages in the indicated versions.
+- The above packages work correctly -at least- in ``Python 3.10.14``.  You can use ``conda`` to emulate an environment in which you install Python in any specific version, and then install the above packages in the indicated versions.
 
 ## Hardware
 
@@ -35,6 +35,7 @@ It is important to prepare your laptop, computer, or remote server in order to b
   - <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential</a>
   - <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet</a> (this is important, and conceptully difficult)
 
+- We'll use ``STAN`` probabilistic language, you can have some fun reading in advance its <a href="https://mc-stan.org/docs/2_18/stan-users-guide/">User's guide</a>
 - A nice introductory paper for the course could be <a href="https://arxiv.org/abs/2011.01808">Bayesian Workflow</a>
 - Take a look at the <a href="https://github.com/sequi76/BML/blob/main/bibliography.md">proposed bibliography</a>
 
