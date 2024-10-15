@@ -1,5 +1,5 @@
 # Bayesian ML for scientific research
-Learning to propose, infer and test probabilistic models that describe systems
+Learning to propose, infer and test probabilistic models that describe systems to extract their relevant info
 
 Course website: <a href='https://www.ictp-saifr.org/mbmlsr2024/'>ictp-saifr.org/mbmlsr2024/</a><br>
 Ezequiel Alvarez <br>
