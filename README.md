@@ -2,8 +2,8 @@
 Learning to propose, infer and test probabilistic models that describe systems
 
 Course website: <a href='https://www.ictp-saifr.org/mbmlsr2024/'>ictp-saifr.org/mbmlsr2024/</a><br>
-Professor: Ezequiel Alvarez <br>
-Schedule: October 28th - November 1st, 9.15AM to 12.15PM
+Ezequiel Alvarez <br>
+October 28th - November 1st, 9.15AM to 12.15PM @ <a href="https://ictp-saifr.org/">ICTP-SAIFR</a><br>
 
 
 # Important preparation-info for the course:
