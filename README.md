@@ -32,10 +32,13 @@ It is important to prepare your laptop, computer, or remote server in order to b
 ## Readings
 
 - It would be better if you have some knowledge about the following distributions:
-  -- <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal or Gaussian</a> (of course that you know this one!)
-  -- <a href="https://en.wikipedia.org/wiki/Binomial_distribution">Bernoulli or Binomial</a>
-  -- <a href="https://en.wikipedia.org/wiki/Poisson_distribution">Poisson</a>
-  -- <a href="https://en.wikipedia.org/wiki/Multinomial_distribution">Multinomial</a>
-  -- <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential distribution</a>
-  -- <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet</a> (this is important, and conceptully difficult)
+  - <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal or Gaussian</a> (of course that you know this one!)
+  - <a href="https://en.wikipedia.org/wiki/Binomial_distribution">Bernoulli or Binomial</a>
+  - <a href="https://en.wikipedia.org/wiki/Poisson_distribution">Poisson</a>
+  - <a href="https://en.wikipedia.org/wiki/Multinomial_distribution">Multinomial</a>
+  - <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential distribution</a>
+  - <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet</a> (this is important, and conceptully difficult)
+
+- A nice general paper is <a href="https://arxiv.org/abs/2011.01808">Bayesian Workflow</a>
+- Take a look at the <a href="https://github.com/sequi76/BML/blob/main/bibliography.md">proposed bibliography</a>
 
