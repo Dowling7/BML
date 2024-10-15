@@ -8,6 +8,8 @@ Schedule: October 28th - November 1st, 9.15AM to 12.15PM
 
 # Important preparation-info for the course:
 
+## Software
+
 It is important to prepare your laptop, computer, or remote server in order to be able to participate in the hands-on part of the course. Here a few comments about this:
 
 - It is better if you have a Unix system on your computer (Linux, MacOS).  Windows is OK as long as you can run Python in it, and solve eventual problems with it.
@@ -23,5 +25,17 @@ It is important to prepare your laptop, computer, or remote server in order to b
   
 - The above packages work correctly -at least- in ``Python 3.10.14``.  You can use ``conda`` to amulate an environment in which you install Python in any specific version, and then install the above packages in the indicated versions.
 
+## Hardware
 
+- Any normal laptop is OK.  In the 5th lecture your laptop may feel better if you have a server where to run the Python notebooks, but don worry if you don't have it, we adapt the notebooks.
+
+## Readings
+
+- It would be better if you have some knowledge about the following distributions:
+  -- <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal or Gaussian</a> (of course that you know this one!)
+  -- <a href="https://en.wikipedia.org/wiki/Binomial_distribution">Bernoulli or Binomial</a>
+  -- <a href="https://en.wikipedia.org/wiki/Poisson_distribution">Poisson</a>
+  -- <a href="https://en.wikipedia.org/wiki/Multinomial_distribution">Multinomial</a>
+  -- <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential distribution</a>
+  -- <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet</a> (this is important, and conceptully difficult)
 
