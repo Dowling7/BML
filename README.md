@@ -17,11 +17,7 @@ It is important to prepare your laptop, computer, or remote server in order to b
   - pystan:                    3.10.0
   - arviz:                     0.19.0
   - nest-asyncio               1.6.0
-  - pandas
-  - numpy
-  - scipy
-  - mpltern
-  - ternary
+  - pandas, numpy, scipy, matplotlib, mpltern, ternary
   
 - The above packages work correctly -at least- in ``Python 3.10.14``.  You can use ``conda`` to amulate an environment in which you install Python in any specific version, and then install the above packages in the indicated versions.
 
