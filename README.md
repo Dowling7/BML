@@ -23,10 +23,11 @@ It is important to prepare your laptop, computer, or remote server in order to b
 
 ## Hardware
 
-- Any normal laptop is OK.  In the 5th lecture your laptop may feel better if you have a server where to run the Python notebooks, but don worry if you don't have it, we adapt the notebooks.
+- Any normal laptop is OK.  In the 5th lecture your laptop may feel better if you have a server where to run the Python notebooks, but don't worry if you don't have it, we adapt the notebooks.
 
 ## Readings
 
+- Give it a read to <a href='https://en.wikipedia.org/wiki/Bayes%27_theorem'>Bayes' Theorem</a>, and/or watch a <a href='https://www.youtube.com/watch?v=cqTwHnNbc8g'>nice video</a>!
 - It would be better if you have some knowledge about the following distributions:
   - <a href="https://en.wikipedia.org/wiki/Normal_distribution">Normal or Gaussian</a> (of course that you know this one!)
   - <a href="https://en.wikipedia.org/wiki/Binomial_distribution">Bernoulli or Binomial</a>
