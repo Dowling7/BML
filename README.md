@@ -34,7 +34,7 @@ It is important to prepare your laptop, computer, or remote server in order to b
   - <a href="https://en.wikipedia.org/wiki/Poisson_distribution">Poisson</a>
   - <a href="https://en.wikipedia.org/wiki/Multinomial_distribution">Multinomial</a>
   - <a href="https://en.wikipedia.org/wiki/Exponential_distribution">Exponential</a>
-  - <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet</a> (this is important, and conceptully difficult)
+  - <a href="https://en.wikipedia.org/wiki/Dirichlet_distribution">Dirichlet</a> (this is important, and conceptually difficult)
 
 - We'll use ``STAN`` probabilistic language, you can have some fun reading in advance its <a href="https://mc-stan.org/docs/2_18/stan-users-guide/">User's guide</a>
 - A nice introductory paper for the course could be <a href="https://arxiv.org/abs/2011.01808">Bayesian Workflow</a>
