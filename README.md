@@ -20,7 +20,7 @@ It is important to prepare your laptop, computer, or remote server in order to b
   - pandas, numpy, scipy, matplotlib, mpltern, ternary
   
 - The above packages work correctly -at least- in ``Python 3.10.14``.  You can use ``conda`` to emulate an environment in which you install Python in any specific version, and then install the above packages in the indicated versions.
-- Test that the notebook 'Hello\_World\_STAN.ipynb' works correctly in your computer.... and we are all set with software!
+- Test that the notebook ```Hello\_World\_STAN.ipynb``` works correctly in your computer.... and we are all set with software!
 ## Hardware
 
 - Any normal laptop is OK.  In the 5th lecture your laptop may feel better if you have a server where to run the Python notebooks, but don't worry if you don't have it, we adapt the notebooks.
