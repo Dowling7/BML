@@ -8,6 +8,13 @@ October 28th - November 1st, 9.15AM to 12.15PM @ <a href="https://ictp-saifr.org
 
 # Important preparation-info for the course:
 
+## Questions, comments, videos, blogs
+
+Sign in to the Slack channel of the course and pout all your questions and comments here!
+<br>
+<br>
+<a href='https://join.slack.com/t/bayesianmachi-ulv9456/shared_invite/zt-2t1maqzgl-F~237IUOuCo~wLiavpMbxA'>``Go to Slack channel``</a>
+
 ## Software
 
 It is important to prepare your laptop, computer, or remote server in order to be able to participate in the hands-on part of the course. Here a few comments about this:
